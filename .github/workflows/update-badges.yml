@@ -1,16 +1,32 @@
-name: Update badges
+name: Update Credly Badges
 
 on:
   workflow_dispatch:
   schedule:
-    # Runs at 0am UTC every day
     - cron: "0 0 * * *"
+
+permissions:
+  contents: write
+
 jobs:
-  update-readme:
-    name: Update Readme with badges
+  update-badges:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+
     steps:
-      - name: Badges - Readme
-        uses: pemtajo/badge-readme@main
+      - uses: actions/checkout@v4
+
+      - name: Update Credly badges
+        id: credly
+        uses: Sagargupta16/credly-badge-readme-action@v1
+        with:
+          credly-username: "YOUR_CREDLY_USERNAME"
+          badge-size: "80"
+
+      - name: Commit changes
+        if: steps.credly.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: update Credly badges"
+          git push
