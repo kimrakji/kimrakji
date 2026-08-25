@@ -34,6 +34,22 @@ SCSS         28 mins               ▓░░░░░░░░░░░░░░
 
 #### 🏅 Certifications
 <!-- CREDLY-BADGES:START -->
+🏅 **Industry Certifications**
+
+<div align="center">
+
+<a href="https://www.credly.com/badges/7c938880-8eb1-4f12-ac55-ba8669907da4" title="HashiCorp Certified: Terraform Associate (003)"><img src="https://images.credly.com/size/80x80/images/0dc62494-dc94-469a-83af-e35309f27356/blob" alt="HashiCorp Certified: Terraform Associate (003)" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/928ddc6f-f542-48fd-8176-22dbcde29ec4" title="AWS Certified Solutions Architect – Associate"><img src="https://images.credly.com/size/80x80/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width="80" height="80"></a>
+
+</div>
+
+📚 **Knowledge & Learning Badges**
+
+<div align="center">
+
+<a href="https://www.credly.com/badges/533bdc47-f12c-4771-87ae-e7c23a24d762" title="KCNA: Kubernetes and Cloud Native Associate"><img src="https://images.credly.com/size/80x80/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png" alt="KCNA: Kubernetes and Cloud Native Associate" width="80" height="80"></a>
+
+</div>
 <!-- CREDLY-BADGES:END -->
 
 <!--
