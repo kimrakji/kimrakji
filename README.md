@@ -9,11 +9,11 @@
 
 #### 📊 My Coding Stats
 <div align="center">
-  <a href="https://github.com/rakjija">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rakjija&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/kimrakji">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kimrakji&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <a>
-  <a href="https://github.com/rakjija">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakjija&layout=compact&langs_count=8&theme=onedark"/>
+  <a href="https://github.com/kimrakji">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimrakji&layout=compact&langs_count=8&theme=onedark"/>
   </a>
 </div>
 
@@ -60,5 +60,5 @@ Here are some ideas to get you started:
 -->
 
 <div align="right">
-  <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Frakjija&label=Visitors&icon=github&color=%23ffe69c">
+  <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fkimrakji&label=Visitors&icon=github&color=%23ffe69c">
 </div>
