@@ -19,7 +19,7 @@ jobs:
         id: credly
         uses: Sagargupta16/credly-badge-readme-action@v1
         with:
-          credly-username: "YOUR_CREDLY_USERNAME"
+          credly-username: "kimrakji"
           badge-size: "80"
 
       - name: Commit changes
