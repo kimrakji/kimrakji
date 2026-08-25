@@ -40,7 +40,3 @@ SCSS         28 mins               ▓░░░░░░░░░░░░░░
 [![KCNA: Kubernetes and Cloud Native Associate](https://images.credly.com/size/80x80/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png)](https://www.credly.com/badges/533bdc47-f12c-4771-87ae-e7c23a24d762)
 [![HashiCorp Certified: Terraform Associate (003)](https://images.credly.com/size/80x80/images/0dc62494-dc94-469a-83af-e35309f27356/blob)](https://www.credly.com/badges/7c938880-8eb1-4f12-ac55-ba8669907da4)
 <!-- END CREDLY BADGES -->
-
-<div align="right">
-  <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fkimrakji&label=Visitors&icon=github&color=%23ffe69c">
-</div>
