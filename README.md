@@ -33,8 +33,8 @@ SCSS         28 mins               ▓░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 #### 🏅 Certifications
-<!-- CREDLY-BADGES:START -->
-<!-- CREDLY-BADGES:END -->
+<!-- START CREDLY BADGES -->
+<!-- END CREDLY BADGES -->
 
 <div align="right">
   <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fkimrakji&label=Visitors&icon=github&color=%23ffe69c">
