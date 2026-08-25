@@ -23,10 +23,12 @@ jobs:
           badge-size: "80"
 
       - name: Commit changes
-        if: steps.credly.outputs.changed == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "chore: update Credly badges"
-          git push
+      
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update Credly badges"
+            git push
+          fi
